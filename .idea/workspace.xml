@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="This is my task i have done">
-      <change afterPath="$PROJECT_DIR$/src/Sep/calculator/modulus_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/All_Task/Diffrence_double_equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Arithmetic_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Assigment_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Testor_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/formatting/Test_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep/calculator/modulus_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep/calculator/modulus_operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13092024/print_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep/ex_13092024/print_table.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +54,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arithmetic_operator.executor": "Run",
+    "Application.Assigment_Operators.executor": "Debug",
+    "Application.Diffrence_double_equal.executor": "Run",
     "Application.SimpleTest.executor": "Run",
     "Application.Simpleprogram.executor": "Run",
     "Application.Test001.executor": "Run",
+    "Application.Test_1.executor": "Run",
+    "Application.Testor_data.executor": "Run",
     "Application.VariableDataType.executor": "Run",
     "Application.control_flow.executor": "Run",
     "Application.modulus_operator.executor": "Run",
@@ -68,13 +79,13 @@
       <recent name="C:\Intelij by pramod sir\FirstJavaProgram4sep\src\TestDay2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.modulus_operator">
-    <configuration name="SimpleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.ex_06092024.SimpleTest" />
+  <component name="RunManager" selected="Application.Diffrence_double_equal">
+    <configuration name="Arithmetic_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.Operators.Arithmetic_operator" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.ex_06092024.*" />
+          <option name="PATTERN" value="Sep.Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.ex_11092024.VariableDataType" />
+    <configuration name="Assigment_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.Operators.Assigment_Operators" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.ex_11092024.*" />
+          <option name="PATTERN" value="Sep.Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="control_flow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13092024.control_flow" />
+    <configuration name="Diffrence_double_equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="All_Task.Diffrence_double_equal" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13092024.*" />
+          <option name="PATTERN" value="All_Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="modulus_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.calculator.modulus_operator" />
+    <configuration name="Test_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.formatting.Test_1" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.calculator.*" />
+          <option name="PATTERN" value="Sep.formatting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print_table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13092024.print_table" />
+    <configuration name="Testor_data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.Operators.Testor_data" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13092024.*" />
+          <option name="PATTERN" value="Sep.Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.modulus_operator" />
-        <item itemvalue="Application.control_flow" />
-        <item itemvalue="Application.print_table" />
-        <item itemvalue="Application.VariableDataType" />
-        <item itemvalue="Application.SimpleTest" />
+        <item itemvalue="Application.Diffrence_double_equal" />
+        <item itemvalue="Application.Testor_data" />
+        <item itemvalue="Application.Arithmetic_operator" />
+        <item itemvalue="Application.Assigment_Operators" />
+        <item itemvalue="Application.Test_1" />
       </list>
     </recent_temporary>
   </component>
@@ -161,11 +172,30 @@
       <option name="project" value="LOCAL" />
       <updated>1726398990387</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is my task i have done">
+      <option name="closed" value="true" />
+      <created>1726419925149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726419925149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my task i have done" />
     <option name="LAST_COMMIT_MESSAGE" value="This is my task i have done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/All_Task/Diffrence_double_equal.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

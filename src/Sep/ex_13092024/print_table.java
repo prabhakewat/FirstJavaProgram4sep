@@ -1,4 +1,4 @@
-package ex_13092024;
+package Sep.ex_13092024;
 
 public class print_table {
 
