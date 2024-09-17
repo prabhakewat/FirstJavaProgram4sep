@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="This is my task i have done">
-      <change afterPath="$PROJECT_DIR$/src/All_Task/Diffrence_double_equal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Arithmetic_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Assigment_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Testor_data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/formatting/Test_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sep/calculator/modulus_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep/calculator/modulus_operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13092024/print_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep/ex_13092024/print_table.java" afterDir="false" />
-    </list>
+    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="This is my task i have done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726419925149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="This is my task i have done">
+      <option name="closed" value="true" />
+      <created>1726594300961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726594300961</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,7 +192,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/All_Task/Diffrence_double_equal.java</url>
           <line>2</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
