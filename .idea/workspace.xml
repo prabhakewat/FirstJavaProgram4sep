@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="This is my task i have done">
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Arithemetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Compound_operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Logical_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Logical_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Logical_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Logical_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Relational_operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Test001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/Unary_operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_16092024/operators.java" afterDir="false" />
+    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="Task dine">
+      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_18092024.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +54,7 @@
     "Application.Assigment_Operators.executor": "Debug",
     "Application.Compound_operators.executor": "Run",
     "Application.Diffrence_double_equal.executor": "Run",
+    "Application.Lab_047.executor": "Run",
     "Application.Logical_1.executor": "Run",
     "Application.Logical_2.executor": "Run",
     "Application.Logical_3.executor": "Run",
@@ -96,13 +87,13 @@
       <recent name="C:\Intelij by pramod sir\FirstJavaProgram4sep\src\TestDay2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_2">
-    <configuration name="Logical_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.ex_16092024.Logical_1" />
+  <component name="RunManager" selected="Application.Lab_047">
+    <configuration name="Lab_047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.Lab_047" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.ex_16092024.*" />
+          <option name="PATTERN" value="Sep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_047" />
         <item itemvalue="Application.Task_2" />
         <item itemvalue="Application.Task_1" />
         <item itemvalue="Application.Logical_3" />
         <item itemvalue="Application.Logical_2" />
-        <item itemvalue="Application.Logical_1" />
       </list>
     </recent_temporary>
   </component>
@@ -221,12 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726595368240</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task dine">
+      <option name="closed" value="true" />
+      <created>1726792333789</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726792333789</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my task i have done" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my task i have done" />
+    <MESSAGE value="Task dine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task dine" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
