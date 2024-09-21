@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="I have done assigned task">
+    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="I have done assigned task new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sep/ex_18092024/Task002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep/ex_18092024/Task002.java" afterDir="false" />
     </list>
@@ -239,14 +239,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726792815071</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="I have done assigned task new">
+      <option name="closed" value="true" />
+      <created>1726939531274</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726939531274</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my task i have done" />
     <MESSAGE value="Task dine" />
     <MESSAGE value="I have done assigned task" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have done assigned task" />
+    <MESSAGE value="I have done assigned task new" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have done assigned task new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
