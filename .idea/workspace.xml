@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="Task dine">
-      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_18092024.java" afterDir="false" />
+    <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="I have done assigned task">
+      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Adding_Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Compound_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Relational_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Unary_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_18092024/Task001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_18092024/Task002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep/ex_18092024.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,12 @@
     &quot;accountId&quot;: &quot;a510b06f-cf3e-493e-9a12-f69c3209847c&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Sep/Operators/Relational_Operator.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -49,9 +60,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Adding_Concatenation.executor": "Run",
     "Application.Arithemetic.executor": "Run",
     "Application.Arithmetic_operator.executor": "Run",
     "Application.Assigment_Operators.executor": "Debug",
+    "Application.Compound_Operator.executor": "Run",
     "Application.Compound_operators.executor": "Run",
     "Application.Diffrence_double_equal.executor": "Run",
     "Application.Lab_047.executor": "Run",
@@ -60,14 +73,18 @@
     "Application.Logical_3.executor": "Run",
     "Application.Logical_Operators.executor": "Run",
     "Application.Relational.executor": "Run",
+    "Application.Relational_Operator.executor": "Run",
     "Application.Relational_operators.executor": "Run",
     "Application.SimpleTest.executor": "Run",
     "Application.Simpleprogram.executor": "Run",
+    "Application.Task001.executor": "Run",
+    "Application.Task002.executor": "Run",
     "Application.Task_1.executor": "Run",
     "Application.Task_2.executor": "Run",
     "Application.Test001.executor": "Run",
     "Application.Test_1.executor": "Run",
     "Application.Testor_data.executor": "Run",
+    "Application.Unary_Operators.executor": "Run",
     "Application.Unary_operators.executor": "Run",
     "Application.VariableDataType.executor": "Run",
     "Application.control_flow.executor": "Run",
@@ -87,13 +104,13 @@
       <recent name="C:\Intelij by pramod sir\FirstJavaProgram4sep\src\TestDay2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab_047">
-    <configuration name="Lab_047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.Lab_047" />
+  <component name="RunManager" selected="Application.Task002">
+    <configuration name="Adding_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.Operators.Adding_Concatenation" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.*" />
+          <option name="PATTERN" value="Sep.Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logical_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.ex_16092024.Logical_2" />
+    <configuration name="Compound_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.Operators.Compound_Operator" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.ex_16092024.*" />
+          <option name="PATTERN" value="Sep.Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logical_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.ex_16092024.Logical_3" />
+    <configuration name="Relational_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.Operators.Relational_Operator" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.ex_16092024.*" />
+          <option name="PATTERN" value="Sep.Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.ex_16092024.Task_1" />
+    <configuration name="Task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.ex_18092024.Task001" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.ex_16092024.*" />
+          <option name="PATTERN" value="Sep.ex_18092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sep.ex_16092024.Task_2" />
+    <configuration name="Task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sep.ex_18092024.Task002" />
       <module name="FirstJavaProgram4sep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sep.ex_16092024.*" />
+          <option name="PATTERN" value="Sep.ex_18092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_047" />
-        <item itemvalue="Application.Task_2" />
-        <item itemvalue="Application.Task_1" />
-        <item itemvalue="Application.Logical_3" />
-        <item itemvalue="Application.Logical_2" />
+        <item itemvalue="Application.Task002" />
+        <item itemvalue="Application.Task001" />
+        <item itemvalue="Application.Relational_Operator" />
+        <item itemvalue="Application.Compound_Operator" />
+        <item itemvalue="Application.Adding_Concatenation" />
       </list>
     </recent_temporary>
   </component>
@@ -220,13 +237,22 @@
       <option name="project" value="LOCAL" />
       <updated>1726792333789</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task dine">
+      <option name="closed" value="true" />
+      <created>1726792815071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726792815071</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my task i have done" />
     <MESSAGE value="Task dine" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task dine" />
+    <MESSAGE value="I have done assigned task" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have done assigned task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
