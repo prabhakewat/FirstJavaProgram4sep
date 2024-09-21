@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8bc142c-e251-4334-83a5-494ca2dfd66c" name="Changes" comment="I have done assigned task">
-      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Adding_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Compound_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Relational_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Operators/Unary_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_18092024/Task001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_18092024/Task002.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sep/ex_18092024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep/ex_18092024/Task002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep/ex_18092024/Task002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,47 +52,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Adding_Concatenation.executor": "Run",
-    "Application.Arithemetic.executor": "Run",
-    "Application.Arithmetic_operator.executor": "Run",
-    "Application.Assigment_Operators.executor": "Debug",
-    "Application.Compound_Operator.executor": "Run",
-    "Application.Compound_operators.executor": "Run",
-    "Application.Diffrence_double_equal.executor": "Run",
-    "Application.Lab_047.executor": "Run",
-    "Application.Logical_1.executor": "Run",
-    "Application.Logical_2.executor": "Run",
-    "Application.Logical_3.executor": "Run",
-    "Application.Logical_Operators.executor": "Run",
-    "Application.Relational.executor": "Run",
-    "Application.Relational_Operator.executor": "Run",
-    "Application.Relational_operators.executor": "Run",
-    "Application.SimpleTest.executor": "Run",
-    "Application.Simpleprogram.executor": "Run",
-    "Application.Task001.executor": "Run",
-    "Application.Task002.executor": "Run",
-    "Application.Task_1.executor": "Run",
-    "Application.Task_2.executor": "Run",
-    "Application.Test001.executor": "Run",
-    "Application.Test_1.executor": "Run",
-    "Application.Testor_data.executor": "Run",
-    "Application.Unary_Operators.executor": "Run",
-    "Application.Unary_operators.executor": "Run",
-    "Application.VariableDataType.executor": "Run",
-    "Application.control_flow.executor": "Run",
-    "Application.modulus_operator.executor": "Run",
-    "Application.operators.executor": "Run",
-    "Application.print_table.executor": "Run",
-    "Application.variableList.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Intelij by pramod sir/FirstJavaProgram4sep/src/TestDay2",
-    "onboarding.tips.debug.path": "C:/Intelij by pramod sir/FirstJavaProgram4sep/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Adding_Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithemetic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmetic_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assigment_Operators.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Compound_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Compound_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diffrence_double_equal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Relational.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Relational_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Relational_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Simpleprogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Testor_data.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unary_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unary_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.control_flow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modulus_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.print_table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variableList.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Intelij by pramod sir/FirstJavaProgram4sep/src/TestDay2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Intelij by pramod sir/FirstJavaProgram4sep/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Intelij by pramod sir\FirstJavaProgram4sep\src\TestDay2" />
